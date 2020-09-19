@@ -1,3 +1,5 @@
-# MyFirstRepository
+# 과제물
 
-Hello My name is HanGyeol
+## 2주차 과제
+
+## 3주차 과제
