@@ -19,7 +19,7 @@
 <img width="" height="" src="./png/19173021 김은비_2.JPG"></img>
 
 ## 9주차 과제
-<img width="" height="" src="./png/cap1.JPG"></img>
-<img width="" height="" src="./png/cap2.JPG"></img>
+<img width="" height="" src="./png/cap1_1.JPG"></img>
+<img width="" height="" src="./png/cap2_2.JPG"></img>
 <img width="" height="" src="./png/cap3.JPG"></img>
 <img width="" height="" src="./png/cap4.JPG"></img>
