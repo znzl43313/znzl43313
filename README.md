@@ -18,7 +18,7 @@
 <img width="" height="" src="./png/19173021 김은비_1.JPG"></img>
 <img width="" height="" src="./png/19173021 김은비_2.JPG"></img>
 
-## 7주차 과제
+## 9주차 과제
 <img width="" height="" src="./png/cap1.JPG"></img>
 <img width="" height="" src="./png/cap2.JPG"></img>
 <img width="" height="" src="./png/cap3.JPG"></img>
