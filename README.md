@@ -23,3 +23,7 @@
 <img width="" height="" src="./png/cap2_2.JPG"></img>
 <img width="" height="" src="./png/cap3.JPG"></img>
 <img width="" height="" src="./png/cap4.JPG"></img>
+
+## 10주차 과제
+<img width="" height="" src="./png/c1.JPG"></img>
+<img width="" height="" src="./png/c2.JPG"></img>
